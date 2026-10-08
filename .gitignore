@@ -1,0 +1,11 @@
+.ai/
+.claude/
+.codex/
+.vscode/
+.env*
+*.log
+*.jsonl
+node_modules/
+www/
+dist/
+*.zip
